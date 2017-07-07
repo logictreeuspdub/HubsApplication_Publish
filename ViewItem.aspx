@@ -20,7 +20,7 @@
 <body>
     <form id="form1" runat="server">
     <table cellspacing="0" cellpadding="0" width="100%" border="0" style="font-family: Arial, Helvetica, sans-serif;
-        font-size: 13px;">
+        font-size: 13px; background-color:#fffdfb;">
         <tbody>
             <tr>
                 <td>
